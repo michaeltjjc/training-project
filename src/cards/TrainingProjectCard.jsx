@@ -13,7 +13,7 @@ const TrainingProjectCard = () => {
     return (
         <div className={classes.card}>
             <Typography variant="h2">
-                Greetings TrainingProject World
+                New Title TrainingProject World
             </Typography>
             <Typography>
                 <span>
